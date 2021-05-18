@@ -1,2 +1,2 @@
 # brasileirao-pool
-Playing with the Brazilian football championship data to do a sweepstake (vacation project).
+Playing with the Brazilian football championship (yes, it's football, not soccer) data to do a sweepstake (vacation project).
