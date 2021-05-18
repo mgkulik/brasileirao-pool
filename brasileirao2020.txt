@@ -1,0 +1,2500 @@
+  Castelão 
+FORTALEZA 0X2 ATHLETICO
+  Couto Pereira 
+CORITIBA 0X1 INTERNACIONAL
+  Ilha do Retiro 
+SPORT 3X2 CEARÁ
+  Maracanã 
+FLAMENGO 0X1 ATLÉTICO-MG
+  Vila Belmiro 
+SANTOS 1X1 BRAGANTINO
+  Arena do Grêmio 
+GRÊMIO 1X0 FLUMINENSE
+  Nilton Santos 
+BOTAFOGO 1X2 BAHIA
+  Arena Corinthians 
+CORINTHIANS 0X0 ATLÉTICO-GO
+  Serrinha 
+GOIÁS 0X3 SÃO PAULO
+  Allianz Parque 
+PALMEIRAS 1X1 VASCO
+  Arena da Baixada 
+ATHLETICO 2X1 GOIÁS
+  Independência 
+ATLÉTICO-MG 3X2 CORINTHIANS
+  Nabi Abi Chedid 
+BRAGANTINO 1X1 BOTAFOGO
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO 3X0 FLAMENGO
+  Pituaçu 
+BAHIA 1X0 CORITIBA
+  Castelão 
+CEARÁ 1X1 GRÊMIO
+  Maracanã 
+FLUMINENSE 1X1 PALMEIRAS
+  Morumbi 
+SÃO PAULO 1X0 FORTALEZA
+  Beira-Rio 
+INTERNACIONAL 2X0 SANTOS
+  São Januário 
+VASCO 2X0 SPORT
+Arena do Grêmio 
+GRÊMIO 0X0 CORINTHIANS
+  Couto Pereira 
+CORITIBA 0X1 FLAMENGO
+  Allianz Parque 
+PALMEIRAS 1X1 GOIÁS
+  Independência 
+ATLÉTICO-MG 2X0 CEARÁ
+  São Januário 
+VASCO 2X1 SÃO PAULO
+  Pituaçu 
+BAHIA 2X1 BRAGANTINO
+  Maracanã 
+FLUMINENSE 2X1 INTERNACIONAL
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO 1X1 SPORT
+  Castelão 
+FORTALEZA 0X0 BOTAFOGO
+  Vila Belmiro 
+SANTOS 3X1 ATHLETICO
+  Maracanã 
+FLAMENGO 1X1 GRÊMIO
+  Nabi Abi Chedid 
+BRAGANTINO 2X1 FLUMINENSE
+  Arena da Baixada 
+ATHLETICO 0X1 PALMEIRAS
+  Beira-Rio 
+INTERNACIONAL 3X0 ATLÉTICO-GO
+  Serra Dourada 
+GOIÁS 1X3 FORTALEZA
+  Nilton Santos 
+BOTAFOGO 2X1 ATLÉTICO-MG
+  Arena Corinthians 
+CORINTHIANS 3X1 CORITIBA
+  Ilha do Retiro 
+SPORT 0X1 SANTOS
+  Morumbi 
+SÃO PAULO 1X1 BAHIA
+  Castelão 
+CEARÁ 0X3 VASCO
+  Arena da Baixada 
+ATHLETICO 0X1 FLUMINENSE
+  Beira-Rio 
+INTERNACIONAL 1X0 ATLÉTICO-MG
+  Serra Dourada 
+GOIÁS 2X0 ATLÉTICO-GO
+  Maracanã 
+FLAMENGO 1X1 BOTAFOGO
+  Nabi Abi Chedid 
+BRAGANTINO 1X2 CORITIBA
+  São Januário 
+VASCO 0X0 GRÊMIO
+  Allianz Parque 
+PALMEIRAS 2X1 SANTOS
+  Ilha do Retiro 
+SPORT 0X1 SÃO PAULO
+  Castelão 
+CEARÁ 2X0 BAHIA
+  Arena Corinthians 
+CORINTHIANS 1X1 FORTALEZA
+  Nilton Santos 
+BOTAFOGO 0X2 INTERNACIONAL
+  Maracanã 
+FLUMINENSE 2X1 VASCO
+  Pituaçu 
+BAHIA 1X1 PALMEIRAS
+  Castelão 
+FORTALEZA 3X0 BRAGANTINO
+  Morumbi 
+SÃO PAULO 2X1 CORINTHIANS
+  Couto Pereira 
+CORITIBA 1X0 SPORT
+  Vila Belmiro 
+SANTOS 0X1 FLAMENGO
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO 0X2 CEARÁ
+  Mineirão 
+ATLÉTICO-MG 0X2 ATHLETICO
+  Arena do Grêmio 
+GRÊMIO 2X1 GOIÁS
+  Castelão 
+CEARÁ 1X0 FORTALEZA
+  Maracanã 
+FLUMINENSE 1X1 ATLÉTICO-GO
+  Serrinha 
+GOIÁS 1X2 CORINTHIANS
+  Arena da Baixada 
+ATHLETICO 1X1 BRAGANTINO
+  Pituaçu 
+BAHIA 3X5 FLAMENGO
+  Nilton Santos 
+BOTAFOGO 0X0 CORITIBA
+  Allianz Parque 
+PALMEIRAS 1X1 INTERNACIONAL
+  Vila Belmiro 
+SANTOS 2X2 VASCO
+  Arena do Grêmio 
+GRÊMIO 1X2 SPORT
+  Mineirão 
+ATLÉTICO-MG 3X0 SÃO PAULO
+  Maracanã 
+FLAMENGO 2X1 FORTALEZA
+  Arena Corinthians 
+CORINTHIANS 2X2 BOTAFOGO
+  Castelão 
+CEARÁ 0X1 SANTOS
+  Nabi Abi Chedid 
+BRAGANTINO 1X2 PALMEIRAS
+  Morumbi 
+SÃO PAULO 3X1 FLUMINENSE
+  Beira-Rio 
+INTERNACIONAL 2X2 BAHIA
+  São Januário 
+VASCO 1X0 ATHLETICO
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO 1X1 GRÊMIO
+  Couto Pereira 
+CORITIBA 0X1 ATLÉTICO-MG
+  Ilha do Retiro 
+SPORT 2X1 GOIÁS
+  Arena da Baixada 
+ATHLETICO 1X1 BOTAFOGO
+  Hailé Pinheiro 
+GOIÁS 3X3 CORITIBA
+  Castelão 
+FORTALEZA 1X0 SPORT
+  Morumbi 
+SÃO PAULO 1X1 BRAGANTINO
+  Vila Belmiro 
+SANTOS 3X1 ATLÉTICO-MG
+  Maracanã 
+FLUMINENSE 1X2 FLAMENGO
+  Beira-Rio 
+INTERNACIONAL 2X0 CEARÁ
+  Pituaçu 
+BAHIA 0X2 GRÊMIO
+  Arena Corinthians 
+CORINTHIANS 0X2 PALMEIRAS
+  São Januário 
+VASCO 1X2 ATLÉTICO-GO
+  Arena da Baixada 
+ATHLETICO
+
+1
+X
+0
+
+CORITIBA
+  Vila Belmiro 
+SANTOS
+
+2
+X
+2
+
+SÃO PAULO
+  Maracanã 
+FLUMINENSE
+
+2
+X
+1
+
+CORINTHIANS
+  Arena do Grêmio 
+GRÊMIO
+
+1
+X
+1
+
+FORTALEZA
+  Castelão 
+CEARÁ
+
+2
+X
+0
+
+FLAMENGO
+  Hailé Pinheiro 
+GOIÁS
+
+1
+X
+0
+
+INTERNACIONAL
+  Pituaçu 
+BAHIA
+
+0
+X
+1
+
+ATLÉTICO-GO
+  Mineirão 
+ATLÉTICO-MG
+
+2
+X
+1
+
+BRAGANTINO
+  Allianz Arena 
+PALMEIRAS
+
+2
+X
+2
+
+SPORT
+  Nilton Santos 
+BOTAFOGO
+
+2
+X
+3
+
+VASCO
+  Morumbi 
+SÃO PAULO
+
+1
+X
+0
+
+ATHLETICO
+  Arena Corinthians 
+CORINTHIANS
+
+3
+X
+2
+
+BAHIA
+  Castelão 
+FORTALEZA
+
+1
+X
+0
+
+INTERNACIONAL
+  Nabi Abi Chedid 
+BRAGANTINO
+
+4
+X
+2
+
+CEARÁ
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+3
+X
+4
+
+ATLÉTICO-MG
+  Couto Pereira 
+CORITIBA
+
+1
+X
+0
+
+VASCO
+  Arena do Grêmio 
+GRÊMIO
+
+1
+X
+1
+
+PALMEIRAS
+  Nilton Santos 
+BOTAFOGO
+
+0
+X
+0
+
+SANTOS
+  Ilha do Retiro 
+SPORT
+
+1
+X
+0
+
+FLUMINENSE
+  Maracanã 
+FLAMENGO
+
+2
+X
+1
+
+GOIÁS
+  Ilha do Retiro 
+SPORT
+
+1
+X
+0
+
+CORINTHIANS
+  Arena da Baixada 
+ATHLETICO
+
+1
+X
+0
+
+BAHIA
+  Beira-Rio 
+INTERNACIONAL
+
+1
+X
+1
+
+SÃO PAULO
+  Mineirão 
+ATLÉTICO-MG
+
+3
+X
+1
+
+GRÊMIO
+  São Januário 
+VASCO
+
+1
+X
+1
+
+BRAGANTINO
+  Allianz Parque 
+PALMEIRAS
+
+1
+X
+1
+
+FLAMENGO
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+1
+X
+1
+
+BOTAFOGO
+  Castelão 
+CEARÁ
+
+2
+X
+2
+
+GOIÁS
+  Vila Belmiro 
+SANTOS
+
+1
+X
+1
+
+FORTALEZA
+  Nilton Santos 
+FLUMINENSE
+
+4
+X
+0
+
+CORITIBA
+  Arena do Grêmio 
+GRÊMIO
+
+1
+X
+1
+
+INTERNACIONAL
+  Allianz Parque 
+PALMEIRAS
+
+2
+X
+1
+
+CEARÁ
+  Nabi Abi Chedid 
+BRAGANTINO
+
+0
+X
+0
+
+CORINTHIANS
+  Nilton Santos 
+BOTAFOGO
+
+1
+X
+1
+
+FLUMINENSE
+  Couto Pereira 
+CORITIBA
+
+1
+X
+1
+
+SÃO PAULO
+  Maracanã 
+FLAMENGO
+
+3
+X
+1
+
+ATHLETICO
+  Castelão 
+FORTALEZA
+
+0
+X
+0
+
+ATLÉTICO-GO
+  Pituaçu 
+BAHIA
+
+1
+X
+2
+
+SPORT
+  Serra Dourada 
+GOIÁS
+
+2
+X
+3
+
+SANTOS
+  Independência 
+ATLÉTICO-MG
+
+4
+X
+1
+
+VASCO
+  Arena Corinthians 
+CORINTHIANS
+
+1
+X
+1
+
+SANTOS
+  Pituaçu 
+BAHIA
+
+3
+X
+0
+
+VASCO
+  Arena do Grêmio 
+GRÊMIO
+
+2
+X
+1
+
+CORITIBA
+  Maracanã 
+FLAMENGO
+
+3
+X
+0
+
+SPORT
+  Morumbi 
+SÃO PAULO
+
+3
+X
+0
+
+ATLÉTICO-GO
+  Hailé Pinheiro 
+GOIÁS
+
+2
+X
+4
+
+FLUMINENSE
+  Castelão 
+FORTALEZA
+
+2
+X
+1
+
+ATLÉTICO-MG
+  Nilton Santos 
+BOTAFOGO
+
+2
+X
+1
+
+PALMEIRAS
+  Arena da Baixada 
+ATHLETICO
+
+0
+X
+0
+
+CEARÁ
+  Nabi Abi Chedid 
+BRAGANTINO
+
+0
+X
+2
+
+INTERNACIONAL
+  São Januário 
+VASCO
+
+1
+X
+2
+
+FLAMENGO
+  Couto Pereira 
+CORITIBA
+
+0
+X
+0
+
+FORTALEZA
+  Allianz Parque 
+PALMEIRAS
+
+0
+X
+2
+
+SÃO PAULO
+  Mineirão 
+ATLÉTICO-MG
+
+3
+X
+0
+
+GOIÁS
+  Maracanã 
+FLUMINENSE
+
+1
+X
+0
+
+BAHIA
+  Vila Belmiro 
+SANTOS
+
+2
+X
+1
+
+GRÊMIO
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+2
+X
+1
+
+BRAGANTINO
+  Ilha do Retiro 
+SPORT
+
+1
+X
+2
+
+BOTAFOGO
+  Beira-Rio 
+INTERNACIONAL
+
+2
+X
+1
+
+ATHLETICO
+  Castelão 
+CEARÁ
+
+2
+X
+1
+
+CORINTHIANS
+  Allianz Parque 
+PALMEIRAS
+
+1
+X
+3
+
+CORITIBA
+  Arena do Grêmio 
+GRÊMIO
+
+3
+X
+1
+
+BOTAFOGO
+  Vila Belmiro 
+SANTOS
+
+0
+X
+1
+
+ATLÉTICO-GO
+  Arena da Baixada 
+ATHLETICO
+
+0
+X
+1
+
+CORINTHIANS
+  Mineirão 
+ATLÉTICO-MG
+
+1
+X
+1
+
+FLUMINENSE
+  Ilha do Retiro 
+SPORT
+
+3
+X
+5
+
+INTERNACIONAL
+  Maracanã 
+FLAMENGO
+
+1
+X
+1
+
+BRAGANTINO
+  Serra Dourada 
+GOIÁS
+
+1
+X
+1
+
+BAHIA
+  São Januário 
+VASCO
+
+0
+X
+0
+
+FORTALEZA
+  Castelão 
+CEARÁ
+
+1
+X
+1
+
+SÃO PAULO
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+1
+X
+1
+
+ATHLETICO
+  Maracanã 
+FLUMINENSE
+
+2
+X
+2
+
+CEARÁ
+  Couto Pereira 
+CORITIBA
+
+1
+X
+2
+
+SANTOS
+  Morumbi 
+SÃO PAULO
+
+0
+X
+0
+
+GRÊMIO
+  Arena Corinthians 
+CORINTHIANS
+
+1
+X
+5
+
+FLAMENGO
+  Beira-Rio 
+INTERNACIONAL
+
+2
+X
+0
+
+VASCO
+  Castelão 
+FORTALEZA
+
+2
+X
+0
+
+PALMEIRAS
+  Nabi Abi Chedid 
+BRAGANTINO
+
+2
+X
+0
+
+SPORT
+  Arena Fonte Nova 
+BAHIA
+
+3
+X
+1
+
+ATLÉTICO-MG
+  Nilton Santos 
+BOTAFOGO
+
+0
+X
+0
+
+GOIÁS
+  São Januário 
+VASCO
+
+1
+X
+2
+
+CORINTHIANS
+  Nabi Abi Chedid 
+BRAGANTINO
+
+2
+X
+0
+
+GOIÁS
+  Castelão 
+CEARÁ
+
+2
+X
+1
+
+CORITIBA
+  Mineirão 
+ATLÉTICO-MG
+
+0
+X
+0
+
+SPORT
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+0
+X
+3
+
+PALMEIRAS
+  Maracanã 
+FLUMINENSE
+
+3
+X
+1
+
+SANTOS
+  Arena da Baixada 
+ATHLETICO
+
+1
+X
+2
+
+GRÊMIO
+  Beira-Rio 
+INTERNACIONAL
+
+2
+X
+2
+
+FLAMENGO
+  Arena Fonte Nova 
+BAHIA
+
+2
+X
+1
+
+FORTALEZA
+  Morumbi 
+SÃO PAULO
+
+4
+X
+0
+
+BOTAFOGO
+  Nilton Santos 
+BOTAFOGO
+
+2
+X
+2
+
+CEARÁ
+  Couto Pereira 
+CORITIBA
+
+1
+X
+0
+
+ATLÉTICO-GO
+  Arena Corinthians 
+CORINTHIANS
+
+1
+X
+0
+
+INTERNACIONAL
+  Castelão 
+FORTALEZA
+
+0
+X
+1
+
+FLUMINENSE
+  Ilha do Retiro 
+SPORT
+
+1
+X
+0
+
+ATHLETICO
+  Maracanã 
+FLAMENGO
+
+1
+X
+4
+
+SÃO PAULO
+  Vila Belmiro 
+SANTOS
+
+3
+X
+1
+
+BAHIA
+  Serra Dourada 
+GOIÁS
+
+1
+X
+1
+
+VASCO
+  Allianz Parque 
+PALMEIRAS
+
+3
+X
+0
+
+ATLÉTICO-MG
+  Arena do Grêmio 
+GRÊMIO
+
+2
+X
+1
+
+BRAGANTINO
+  Arena da Baixada 
+ATHLETICO
+
+2
+X
+1
+
+FORTALEZA
+  Morumbi 
+SÃO PAULO
+
+2
+X
+1
+
+GOIÁS
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+1
+X
+1
+
+CORINTHIANS
+  São Januário 
+VASCO
+
+0
+X
+1
+
+PALMEIRAS
+  Beira-Rio 
+INTERNACIONAL
+
+2
+X
+2
+
+CORITIBA
+  Nabi Abi Chedid 
+BRAGANTINO
+
+1
+X
+1
+
+SANTOS
+  Independência 
+ATLÉTICO-MG
+
+4
+X
+0
+
+FLAMENGO
+  Arena Fonte Nova 
+BAHIA
+
+1
+X
+0
+
+BOTAFOGO
+  Maracanã 
+FLUMINENSE
+
+0
+X
+1
+
+GRÊMIO
+  Castelão 
+CEARÁ
+
+0
+X
+0
+
+SPORT
+  Vila Belmiro 
+SANTOS
+
+2
+X
+0
+
+INTERNACIONAL
+  Ilha do Retiro 
+SPORT
+
+0
+X
+2
+
+VASCO
+  Serra Dourada 
+GOIÁS
+
+0
+X
+1
+
+ATHLETICO
+  Arena Corinthians 
+CORINTHIANS
+
+1
+X
+2
+
+ATLÉTICO-MG
+  Arena do Grêmio 
+GRÊMIO
+
+4
+X
+2
+
+CEARÁ
+  Castelão 
+FORTALEZA
+
+2
+X
+3
+
+SÃO PAULO
+  Maracanã 
+FLAMENGO
+
+1
+X
+1
+
+ATLÉTICO-GO
+  Allianz Parque 
+PALMEIRAS
+
+2
+X
+0
+
+FLUMINENSE
+  Couto Pereira 
+CORITIBA
+
+1
+X
+2
+
+BAHIA
+  Nilton Santos 
+BOTAFOGO
+
+1
+X
+2
+
+BRAGANTINO
+  Nabi Abi Chedid 
+BRAGANTINO
+
+4
+X
+0
+
+BAHIA
+  Maracanã 
+FLAMENGO
+
+3
+X
+1
+
+CORITIBA
+  Arena da Baixada 
+ATHLETICO
+
+1
+X
+0
+
+SANTOS
+  Serra Dourada 
+GOIÁS
+
+1
+X
+0
+
+PALMEIRAS
+  Morumbi 
+SÃO PAULO
+
+1
+X
+1
+
+VASCO
+  Castelão 
+CEARÁ
+
+2
+X
+2
+
+ATLÉTICO-MG
+  Nilton Santos 
+BOTAFOGO
+
+1
+X
+2
+
+FORTALEZA
+  Beira-Rio 
+INTERNACIONAL
+
+1
+X
+2
+
+FLUMINENSE
+  Arena Corinthians 
+CORINTHIANS
+
+0
+X
+0
+
+GRÊMIO
+  Ilha do Retiro 
+SPORT
+
+0
+X
+1
+
+ATLÉTICO-GO
+  Independência 
+ATLÉTICO-MG
+
+2
+X
+1
+
+BOTAFOGO
+  Couto Pereira 
+CORITIBA
+
+0
+X
+1
+
+CORINTHIANS
+  Castelão 
+FORTALEZA
+
+1
+X
+1
+
+GOIÁS
+  Allianz Parque 
+PALMEIRAS
+
+3
+X
+0
+
+ATHLETICO
+  Vila Belmiro 
+SANTOS
+
+4
+X
+2
+
+SPORT
+  Arena Fonte Nova 
+BAHIA
+
+1
+X
+3
+
+SÃO PAULO
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+0
+X
+0
+
+INTERNACIONAL
+  Maracanã 
+FLUMINENSE
+
+0
+X
+0
+
+BRAGANTINO
+  São Januário 
+VASCO
+
+1
+X
+4
+
+CEARÁ
+  Arena do Grêmio 
+GRÊMIO
+
+2
+X
+4
+
+FLAMENGO
+  Castelão 
+FORTALEZA
+
+0
+X
+0
+
+CORINTHIANS
+  Maracanã 
+BOTAFOGO
+
+0
+X
+1
+
+FLAMENGO
+  Vila Belmiro 
+SANTOS
+
+2
+X
+2
+
+PALMEIRAS
+  Maracanã 
+FLUMINENSE
+
+3
+X
+1
+
+ATHLETICO
+  Arena Fonte Nova 
+BAHIA
+
+0
+X
+2
+
+CEARÁ
+  Couto Pereira 
+CORITIBA
+
+0
+X
+0
+
+BRAGANTINO
+  Morumbi 
+SÃO PAULO
+
+1
+X
+0
+
+SPORT
+  Arena do Grêmio 
+GRÊMIO
+
+4
+X
+0
+
+VASCO
+  Independência 
+ATLÉTICO-MG
+
+2
+X
+2
+
+INTERNACIONAL
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+0
+X
+1
+
+GOIÁS
+  Nabi Abi Chedid 
+BRAGANTINO
+
+2
+X
+1
+
+FORTALEZA
+  Arena da Baixada 
+ATHLETICO
+
+0
+X
+1
+
+ATLÉTICO-MG
+  Allianz Parque 
+PALMEIRAS
+
+3
+X
+0
+
+BAHIA
+  Beira-Rio 
+INTERNACIONAL
+
+2
+X
+1
+
+BOTAFOGO
+  Castelão 
+CEARÁ
+
+1
+X
+2
+
+ATLÉTICO-GO
+  Serra Dourada 
+GOIÁS
+
+0
+X
+0
+
+GRÊMIO
+  Maracanã 
+FLAMENGO
+
+4
+X
+1
+
+SANTOS
+  Arena Corinthians 
+CORINTHIANS
+
+1
+X
+0
+
+SÃO PAULO
+  Ilha do Retiro 
+SPORT
+
+1
+X
+0
+
+CORITIBA
+  São Januário 
+VASCO
+
+1
+X
+1
+
+FLUMINENSE
+  Morumbi 
+SÃO PAULO
+
+3
+X
+0
+
+ATLÉTICO-MG
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+2
+X
+1
+
+FLUMINENSE
+  Ilha do Retiro 
+SPORT
+
+1
+X
+1
+
+GRÊMIO
+  Beira-Rio 
+INTERNACIONAL
+
+2
+X
+0
+
+PALMEIRAS
+  Couto Pereira 
+CORITIBA
+
+1
+X
+2
+
+BOTAFOGO
+  São Januário 
+VASCO
+
+1
+X
+0
+
+SANTOS
+  Nabi Abi Chedid 
+BRAGANTINO
+
+0
+X
+1
+
+ATHLETICO
+  Maracanã 
+FLAMENGO
+
+4
+X
+3
+
+BAHIA
+  Castelão 
+FORTALEZA
+
+0
+X
+2
+
+CEARÁ
+  Arena Corinthians 
+CORINTHIANS
+
+2
+X
+1
+
+GOIÁS
+  Independência 
+ATLÉTICO-MG
+
+2
+X
+0
+
+CORITIBA
+  Castelão 
+FORTALEZA
+
+0
+X
+0
+
+FLAMENGO
+  Serra Dourada 
+GOIÁS
+
+1
+X
+0
+
+SPORT
+  Maracanã 
+FLUMINENSE
+
+1
+X
+2
+
+SÃO PAULO
+  Nilton Santos 
+BOTAFOGO
+
+0
+X
+2
+
+CORINTHIANS
+  Arena Fonte Nova 
+BAHIA
+
+1
+X
+2
+
+INTERNACIONAL
+  Allianz Parque 
+PALMEIRAS
+
+1
+X
+0
+
+BRAGANTINO
+  Vila Belmiro 
+SANTOS
+
+1
+X
+1
+
+CEARÁ
+  Arena da Baixada 
+ATHLETICO
+
+3
+X
+0
+
+VASCO
+  Arena do Grêmio 
+GRÊMIO
+
+2
+X
+1
+
+ATLÉTICO-GO
+  Nilton Santos 
+BOTAFOGO
+
+0
+X
+2
+
+ATHLETICO
+  Arena do Grêmio 
+GRÊMIO
+
+2
+X
+1
+
+BAHIA
+  Ilha do Retiro 
+SPORT
+
+1
+X
+0
+
+FORTALEZA
+  Couto Pereira 
+CORITIBA
+
+1
+X
+2
+
+GOIÁS
+  Maracanã 
+FLAMENGO
+
+1
+X
+2
+
+FLUMINENSE
+  Nabi Abi Chedid 
+BRAGANTINO
+
+4
+X
+2
+
+SÃO PAULO
+  Castelão 
+CEARÁ
+
+0
+X
+2
+
+INTERNACIONAL
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+0
+X
+0
+
+VASCO
+  Allianz Parque 
+PALMEIRAS
+
+4
+X
+0
+
+CORINTHIANS
+  Independência 
+ATLÉTICO-MG
+
+2
+X
+0
+
+SANTOS
+  Ilha do Retiro 
+SPORT
+
+0
+X
+1
+
+PALMEIRAS
+  Couto Pereira 
+CORITIBA
+
+0
+X
+0
+
+ATHLETICO
+  Castelão 
+FORTALEZA
+
+0
+X
+0
+
+GRÊMIO
+  Maracanã 
+FLAMENGO
+
+0
+X
+2
+
+CEARÁ
+  Morumbi 
+SÃO PAULO
+
+0
+X
+1
+
+SANTOS
+  Beira-Rio 
+INTERNACIONAL
+
+1
+X
+0
+
+GOIÁS
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+1
+X
+1
+
+BAHIA
+  São Januário 
+VASCO
+
+3
+X
+0
+
+BOTAFOGO
+  Nabi Abi Chedid 
+BRAGANTINO
+
+2
+X
+2
+
+ATLÉTICO-MG
+  Arena Corinthians 
+CORINTHIANS
+
+5
+X
+0
+
+FLUMINENSE
+  Allianz Parque 
+PALMEIRAS
+
+1
+X
+1
+
+GRÊMIO
+  Maracanã 
+FLUMINENSE
+
+1
+X
+0
+
+SPORT
+  São Januário 
+VASCO
+
+0
+X
+1
+
+CORITIBA
+  Vila Belmiro 
+SANTOS
+
+2
+X
+1
+
+BOTAFOGO
+  Arena da Baixada 
+ATHLETICO
+
+1
+X
+1
+
+SÃO PAULO
+  Mineirão 
+ATLÉTICO-MG
+
+3
+X
+1
+
+ATLÉTICO-GO
+  Beira-Rio 
+INTERNACIONAL
+
+4
+X
+2
+
+FORTALEZA
+  Castelão 
+CEARÁ
+
+1
+X
+2
+
+BRAGANTINO
+  Hailé Pinheiro 
+GOIÁS
+
+0
+X
+3
+
+FLAMENGO
+  Arena Fonte Nova 
+BAHIA
+
+2
+X
+1
+
+CORINTHIANS
+  Nilton Santos 
+BOTAFOGO
+
+1
+X
+3
+
+ATLÉTICO-GO
+  Arena Fonte Nova 
+BAHIA
+
+1
+X
+0
+
+ATHLETICO
+  Arena do Grêmio 
+GRÊMIO
+
+1
+X
+1
+
+ATLÉTICO-MG
+  Couto Pereira 
+CORITIBA
+
+3
+X
+3
+
+FLUMINENSE
+  Morumbi 
+SÃO PAULO
+
+1
+X
+5
+
+INTERNACIONAL
+  Nabi Abi Chedid 
+BRAGANTINO
+
+4
+X
+1
+
+VASCO
+  Mané Garrincha 
+FLAMENGO
+
+2
+X
+0
+
+PALMEIRAS
+  Castelão 
+FORTALEZA
+
+2
+X
+0
+
+SANTOS
+  Hailé Pinheiro 
+GOIÁS
+
+0
+X
+4
+
+CEARÁ
+  Arena Corinthians 
+CORINTHIANS
+
+3
+X
+0
+
+SPORT
+  Morumbi 
+SÃO PAULO
+
+1
+X
+1
+
+CORITIBA
+  São Januário 
+VASCO
+
+3
+X
+2
+
+ATLÉTICO-MG
+  Beira-Rio 
+INTERNACIONAL
+
+2
+X
+1
+
+GRÊMIO
+  Arena da Baixada 
+ATHLETICO
+
+2
+X
+1
+
+FLAMENGO
+  Castelão 
+CEARÁ
+
+2
+X
+1
+
+PALMEIRAS
+  Vila Belmiro 
+SANTOS
+
+3
+X
+4
+
+GOIÁS
+  Ilha do Retiro 
+SPORT
+
+2
+X
+0
+
+BAHIA
+  Antônio Accioly 
+ATLÉTICO-GO
+
+2
+X
+0
+
+FORTALEZA
+  São Januário 
+FLUMINENSE
+
+2
+X
+0
+
+BOTAFOGO
+  Arena Corinthians 
+CORINTHIANS
+
+0
+X
+2
+
+BRAGANTINO
+  São Januário 
+VASCO
+
+0
+X
+0
+
+BAHIA
+  Couto Pereira 
+CORITIBA
+
+1
+X
+1
+
+GRÊMIO
+  Castelão 
+CEARÁ
+
+0
+X
+2
+
+ATHLETICO
+  Antônio Accioly 
+ATLÉTICO-GO
+
+2
+X
+1
+
+SÃO PAULO
+  Mineirão 
+ATLÉTICO-MG
+
+2
+X
+0
+
+FORTALEZA
+  Maracanã 
+FLUMINENSE
+
+3
+X
+0
+
+GOIÁS
+  Beira-Rio 
+INTERNACIONAL
+
+2
+X
+1
+
+BRAGANTINO
+  Ilha do Retiro 
+SPORT
+
+0
+X
+3
+
+FLAMENGO
+  Allianz Parque 
+PALMEIRAS
+
+1
+X
+1
+
+BOTAFOGO
+  Vila Belmiro 
+SANTOS
+
+1
+X
+0
+
+CORINTHIANS
+  Arena do Grêmio 
+GRÊMIO
+
+3
+X
+3
+
+SANTOS
+  Nabi Abi Chedid 
+BRAGANTINO
+
+2
+X
+0
+
+ATLÉTICO-GO
+  Arena Corinthians 
+CORINTHIANS
+
+2
+X
+1
+
+CEARÁ
+  Arena Fonte Nova 
+BAHIA
+
+0
+X
+1
+
+FLUMINENSE
+  Serra Dourada 
+GOIÁS
+
+1
+X
+0
+
+ATLÉTICO-MG
+  Castelão 
+FORTALEZA
+
+3
+X
+1
+
+CORITIBA
+  Maracanã 
+FLAMENGO
+
+2
+X
+0
+
+VASCO
+  Arena da Baixada 
+ATHLETICO
+
+0
+X
+0
+
+INTERNACIONAL
+  Nilton Santos 
+BOTAFOGO
+
+0
+X
+1
+
+SPORT
+SEX 19/02/2021 - 19h00   Morumbi 
+SÃO PAULO
+
+1
+X
+1
+
+PALMEIRAS
+  Arena Fonte Nova 
+BAHIA
+
+3
+X
+3
+
+GOIÁS
+  Antônio Accioly 
+ATLÉTICO-GO
+
+1
+X
+1
+
+SANTOS
+  Nabi Abi Chedid 
+BRAGANTINO
+
+1
+X
+1
+
+FLAMENGO
+  Nilton Santos 
+BOTAFOGO
+
+2
+X
+5
+
+GRÊMIO
+  Beira-Rio 
+INTERNACIONAL
+
+1
+X
+2
+
+SPORT
+  Castelão 
+FORTALEZA
+
+3
+X
+0
+
+VASCO
+  Morumbi 
+SÃO PAULO
+
+1
+X
+1
+
+CEARÁ
+  Maracanã 
+FLUMINENSE
+
+0
+X
+0
+
+ATLÉTICO-MG
+  Arena Corinthians 
+CORINTHIANS
+
+3
+X
+3
+
+ATHLETICO
+  Couto Pereira 
+CORITIBA
+
+1
+X
+0
+
+PALMEIRAS
+  Serra Dourada 
+GOIÁS
+
+2
+X
+0
+
+BOTAFOGO
+  Vila Belmiro 
+SANTOS
+
+2
+X
+0
+
+CORITIBA
+  Independência 
+ATLÉTICO-MG
+
+1
+X
+1
+
+BAHIA
+  Maracanã 
+FLAMENGO
+
+2
+X
+1
+
+CORINTHIANS
+  Allianz Arena 
+PALMEIRAS
+
+3
+X
+0
+
+FORTALEZA
+  São Januário 
+VASCO
+
+0
+X
+2
+
+INTERNACIONAL
+  Arena da Baixada 
+ATHLETICO
+
+2
+X
+1
+
+ATLÉTICO-GO
+  Arena do Grêmio 
+GRÊMIO
+
+1
+X
+2
+
+SÃO PAULO
+  Castelão 
+CEARÁ
+
+1
+X
+3
+
+FLUMINENSE
+  Ilha do Retiro 
+SPORT
+
+0
+X
+0
+
+BRAGANTINO
+  Couto Pereira 
+CORITIBA
+
+0
+X
+2
+
+CEARÁ
+  Castelão 
+FORTALEZA
+
+0
+X
+4
+
+BAHIA
+  Maracanã 
+FLAMENGO
+
+2
+X
+1
+
+INTERNACIONAL
+  Arena Corinthians 
+CORINTHIANS
+
+0
+X
+0
+
+VASCO
+  Ilha do Retiro 
+SPORT
+
+2
+X
+3
+
+ATLÉTICO-MG
+  Vila Belmiro 
+SANTOS
+
+1
+X
+1
+
+FLUMINENSE
+  Arena do Grêmio 
+GRÊMIO
+
+1
+X
+0
+
+ATHLETICO
+  Serra Dourada 
+GOIÁS
+
+0
+X
+0
+
+BRAGANTINO
+  Allianz Arena 
+PALMEIRAS
+
+1
+X
+1
+
+ATLÉTICO-GO
+  Nilton Santos 
+BOTAFOGO
+
+1
+X
+0
+
+SÃO PAULO
+  Arena da Baixada 
+ATHLETICO
+
+2
+X
+0
+
+SPORT
+  Independência 
+ATLÉTICO-MG
+
+2
+X
+0
+
+PALMEIRAS
+  Olímpico Pedro Ludovico 
+ATLÉTICO-GO
+
+3
+X
+1
+
+CORITIBA
+  Arena Fonte Nova 
+BAHIA
+
+2
+X
+0
+
+SANTOS
+  Castelão 
+CEARÁ
+
+2
+X
+1
+
+BOTAFOGO
+  Beira-Rio 
+INTERNACIONAL
+
+0
+X
+0
+
+CORINTHIANS
+  Morumbi 
+SÃO PAULO
+
+2
+X
+1
+
+FLAMENGO
+  Maracanã 
+FLUMINENSE
+
+2
+X
+0
+
+FORTALEZA
+  São Januário 
+VASCO
+
+3
+X
+2
+
+GOIÁS
+  Nabi Abi Chedid 
+BRAGANTINO
+
+1
+X
+0
+
+GRÊMIO
